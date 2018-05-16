@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">app</string>
+    <string name="app_name">Погодное приложение!</string>
+    <string name="weather">Погода!</string>
 </resources>
